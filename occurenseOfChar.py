@@ -6,3 +6,8 @@ for i in str:
     if i == chr:
         count +=1
 print(count)
+
+#Another method to count character
+#Using count() method
+
+print(str.count(chr))
